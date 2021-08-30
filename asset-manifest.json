@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/New-React-Project/static/js/main.82f95b2c.chunk.js",
+    "main.js.map": "/New-React-Project/static/js/main.82f95b2c.chunk.js.map",
+    "runtime-main.js": "/New-React-Project/static/js/runtime-main.a3fd509a.js",
+    "runtime-main.js.map": "/New-React-Project/static/js/runtime-main.a3fd509a.js.map",
+    "static/js/2.29fe17b2.chunk.js": "/New-React-Project/static/js/2.29fe17b2.chunk.js",
+    "static/js/2.29fe17b2.chunk.js.map": "/New-React-Project/static/js/2.29fe17b2.chunk.js.map",
+    "index.html": "/New-React-Project/index.html",
+    "static/js/2.29fe17b2.chunk.js.LICENSE.txt": "/New-React-Project/static/js/2.29fe17b2.chunk.js.LICENSE.txt",
+    "static/media/app.9b248cc0.png": "/New-React-Project/static/media/app.9b248cc0.png",
+    "static/media/how.04bb653e.png": "/New-React-Project/static/media/how.04bb653e.png",
+    "static/media/woman.bb936a7b.png": "/New-React-Project/static/media/woman.bb936a7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3fd509a.js",
+    "static/js/2.29fe17b2.chunk.js",
+    "static/js/main.82f95b2c.chunk.js"
+  ]
+}
